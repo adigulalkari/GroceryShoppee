@@ -1,0 +1,19 @@
+id,productName,price,quantity,unit
+1,Apples,100.0,9,kg
+2,Banana,20.0,31,dozen
+3,Spinach,15.0,11,Bundle
+4,Chicken,70.0,5,kg
+7,Salmon,120.0,0,kg
+8,Lays,20.0,65,pcs
+9,Carrot,40.0,25,kg
+10,GoodDay Biscuits,25.0,5,pcs
+11,Aloo Bhujiya,65.0,0,kg
+12,Maaza Juice,40.0,30,pcs
+13,Mutton,120.0,3,kg
+14,Eggs,85.0,10,dozen
+15,Crab,250.0,0,kg
+16,Brinjal,60.0,39,kg
+17,Oranges,30.0,0,kg
+18,Milk,65.0,0,lt
+19,Cheese,200.0,6,kg
+20,Yogurt,40.0,3,lt
