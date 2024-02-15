@@ -1,2 +1,3 @@
 venv
 Report.pdf
+celerybeat-schedule.db
