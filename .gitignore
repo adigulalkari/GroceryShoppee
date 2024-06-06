@@ -1,2 +1,4 @@
 venv
 Report.pdf
+celerybeat-schedule.db
+.DS_Store

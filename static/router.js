@@ -1,4 +1,5 @@
-import Home from './components/Home.js'
+// import Home from './components/Home.js'
+import Home from './components/Home.vue'
 import Login from "./components/Login.js"
 import Users from './components/Users.js'
 import Register from './components/Register.js'
